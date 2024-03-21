@@ -1,4 +1,4 @@
-## Repositório Fundamentos 
+## Repositório Fundamentos Java 
 
 Este reposiório tem fins educativos, aos quais disponibilizei desafios (nivel iniciante) desenvolvidos em um curso de Java.
 
