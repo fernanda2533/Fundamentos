@@ -1,8 +1,8 @@
 ## Repositório Fundamentos Java 
 
-Este reposiório tem fins educativos, aos quais disponibilizei desafios (nivel iniciante) desenvolvidos em um curso de Java.
+Este reposiório tem fins educativos, ao qual disponibilizei desafios (nivel iniciante) desenvolvidos em um curso de Java.
 
-Faça-os caso esteja começando agora e esteja em busca de testar seus conhecimentos. Pra cima Devs ;) 
+Faça-os caso esteja começando agora e em busca de testar seus conhecimentos. Pra cima Devs ;) 
 
 <img align="low" alt="lego" height="200" width="400" src="https://www.mexidodeideias.com.br/wp-content/uploads/2016/05/cafe-lego.gif">
 
