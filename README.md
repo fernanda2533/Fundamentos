@@ -1,3 +1,12 @@
+## Repositório Fundamentos Java 
+
+Este reposiório tem fins educativos, aos quais disponibilizei desafios (nivel iniciante) desenvolvidos em um curso de Java.
+
+Faça-os casa esteja começando agora e esteja em busca de testar seus conhecimentos. Pra cima Devs ;) 
+
+<img align="low" alt="lego" height="200" width="400" src="https://www.mexidodeideias.com.br/wp-content/uploads/2016/05/cafe-lego.gif">
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
